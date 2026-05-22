@@ -1,0 +1,9 @@
+Repositorio:
+El repositorio es el lugar en donde pueden almacenar los archivos y modificaciones de un proyecto en específico, este nos permite organizar y controlar diferentes versiones del trabajo.
+
+Commit:
+Un coit es ese registro de los cambios realizados en un proyecto, el mismo nos sirve para poder guardar el progreso y así tener un historial de modificaciones.
+
+Push:
+El push se utiliza para subir los cambios locales al repositorio remoto en GitHub, logrando así que los archivos queden publicados en línea 
+
