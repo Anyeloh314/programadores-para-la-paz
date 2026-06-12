@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+  "tipo": "Seguridad",
+  "descripcion": "Vecinos reportan falta de iluminación en una zona peatonal durante las noches"
+}
+
+Ejemplo 2:
+
+{
+  "tipo": "Salud comunitaria",
+  "descripcion": "Se solicita jornada de fumigación por aumento de mosquitos en el sector"
+}

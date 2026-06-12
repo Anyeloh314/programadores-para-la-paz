@@ -1,0 +1,11 @@
+Consulta realizada: GET /reportes
+
+Resultado:
+
+[
+  {
+    "id": 1,
+    "tipo": "Convivencia",
+    "descripcion": "Se solicita mediación por conflictos recurrentes entre vecinos"
+  }
+]
