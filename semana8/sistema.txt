@@ -1,0 +1,13 @@
+Comando: uname -a
+Muestra información del sistema operativo, el kernel, la arquitectura del dispositivo y otros datos del sistema.
+
+Resultado obtenido:
+Linux localhost 5.10.236-android12-9-00003-gfb24cf99ad97-ab14313284 #1 SMP PREEMPT Tue Oct 21 03:03:12 UTC 2025 aarch64 Android
+
+Comando: whoami
+Muestra el usuario que está utilizando el sistema en ese momento.
+
+Resultado obtenido:
+u0_a388
+
+Es útil conocer esta información cuando se administra un servidor porque permite identificar el entorno de trabajo, el usuario activo y algunas características técnicas del sistema.

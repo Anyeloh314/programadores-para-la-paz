@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras y cambiarlas periódicamente.
+2. No compartir las credenciales de acceso con otras personas.
+3. Limitar el acceso a la información sensible según los permisos de cada usuario.
+4. Realizar copias de seguridad de la información importante.
+5. Mantener actualizados los sistemas y aplicaciones para corregir vulnerabilidades.
