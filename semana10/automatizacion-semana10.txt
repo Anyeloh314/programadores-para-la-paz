@@ -1,0 +1,11 @@
+Evento:
+Se registra una nueva solicitud de apoyo comunitario.
+
+Acción:
+Enviar una notificación al grupo de coordinación en Telegram mediante n8n.
+
+Mensaje:
+"Se ha registrado una nueva solicitud. Ingrese al sistema para revisarla."
+
+Información que no debe enviarse:
+Nombres completos, números de identificación, direcciones, teléfonos y cualquier otro dato personal o sensible.

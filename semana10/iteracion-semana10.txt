@@ -1,0 +1,10 @@
+Tareas que realizaría primero:
+- Implementar el registro de nuevos reportes.
+- Configurar las notificaciones para el coordinador.
+
+Son las más importantes porque permiten recibir incidencias y darles seguimiento desde el inicio del proyecto.
+
+Una tarea se considera terminada cuando:
+- Funciona correctamente.
+- Fue probada sin errores.
+- Quedó registrada en Git y documentada.
