@@ -1,0 +1,5 @@
+Método de autenticación:
+Inicio de sesión con correo electrónico y contraseña.
+
+¿Por qué se necesita autenticación?
+Permite que solo los usuarios registrados puedan acceder a funciones como crear causas, brindar apoyo o consultar información personal. Además, ayuda a proteger la información y evitar accesos no autorizados.

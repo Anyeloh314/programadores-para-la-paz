@@ -1,0 +1,7 @@
+Pantalla principal:
+
+- Encabezado con el nombre de la plataforma.
+- Menú con las opciones: Inicio, Causas, Mis apoyos y Perfil.
+- Sección donde se muestran las causas comunitarias disponibles.
+- Botón para apoyar una causa.
+- Pie de página con información de contacto y enlaces de ayuda.
