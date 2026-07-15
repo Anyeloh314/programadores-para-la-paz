@@ -1,0 +1,8 @@
+Evento:
+Una petición comunitaria alcanza el número mínimo de apoyos establecido.
+
+Acción:
+Generar automáticamente un documento PDF con la información de la petición y enviar una notificación al equipo organizador.
+
+Información que no debe incluirse:
+Contraseñas, números de identificación, direcciones, teléfonos ni otros datos personales sensibles de los participantes.

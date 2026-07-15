@@ -1,0 +1,5 @@
+1. Un usuario registra una nueva causa comunitaria en la plataforma.
+2. El sistema guarda la información en la base de datos.
+3. Otros miembros de la comunidad pueden apoyar la causa.
+4. Cada apoyo queda registrado y se actualiza el total de participantes.
+5. Cuando se alcanza el objetivo, el sistema genera la petición en formato PDF para presentarla.

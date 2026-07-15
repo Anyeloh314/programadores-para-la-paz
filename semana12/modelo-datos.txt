@@ -1,0 +1,22 @@
+Entidad: Petición
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_creacion
+
+Propósito:
+Guardar la información de cada petición creada por la comunidad.
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- peticion_id
+- alias_usuario
+- fecha_apoyo
+
+Propósito:
+Registrar cada apoyo recibido por una petición y llevar el conteo de participación sin almacenar datos personales sensibles.
